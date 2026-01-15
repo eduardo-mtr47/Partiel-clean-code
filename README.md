@@ -1,6 +1,7 @@
 # Partiel-clean-code Ecommerce Pricing
 
 url projet git : https://github.com/eduardo-mtr47/Partiel-clean-code
+url sonar : https://sonarcloud.io/project/overview?id=eduardo-mtr47_Partiel-clean-code
 ## Initialisation du projet
 ```bash
 cd ecommerce-pricing
