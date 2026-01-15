@@ -24,7 +24,7 @@ npm test -- --coverage
 Le sujet demande 4 remises :
 
 - Fidélité	Fait✅
-- Pourcentage	 Pas fait❌
+- Pourcentage Fait✅
 - Montant Pas fait ❌
 - 3 pour 2	Pas fait ❌
 
