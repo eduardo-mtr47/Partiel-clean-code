@@ -17,12 +17,6 @@ test("calcul complet avec remise fidelite et taxes", () => {
 
   const resultat = calculateur.calculerTotal(panier, remise, taxes);
 
-  // Total brut = 30
-  // Remise Or 15% = 4.5
-  // Total après remise = 25.5
-  // Taxes = (20 * 0.20) + (10 * 0.055) = 4 + 0.55 = 4.55
-  // Total final = 25.5 + 4.55 = 30.05
-
   expect(resultat.totalBrut).toBe(40);
   expect(resultat.montantRemise).toBe(6);
   expect(resultat.taxes).toBe(6.55);
